@@ -1,0 +1,9 @@
+# Common temporary and local files
+.DS_Store
+*.log
+tmp/
+log/
+vendor/
+coverage/
+.bundle/
+.byebug_history
